@@ -72,6 +72,25 @@
 
 /* ================================================== */
 
+/* Custom CSS - Joe Snyder */
+
+.section-about-text {
+	text-align: left;
+}
+
+.tech-icon {
+	width: 12%;
+	padding: 10px;
+}
+
+.tech-icons-container {
+	margin-top: 32px;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
 
 /* body */
 
