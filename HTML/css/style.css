@@ -85,10 +85,47 @@
 
 .tech-icons-container {
 	margin-top: 32px;
-
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+}
+
+.portfolio-projects-container {
+	width: 80%;
+	margin: auto;
+}
+
+.portfolio-project-image {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.contact-info-container {
+	width: auto;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+/* .contact-info-container span {
+	width: 40%;
+	margin: auto;
+} */
+
+.contact-link-container {
+	width: 30%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.linkedIn-logo {
+	width: 40px;
+	height: 40px;
+}
+
+.gitHub-logo {
+	width: 40px;
+	height: 40px;
 }
 
 
