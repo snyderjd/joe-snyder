@@ -128,6 +128,13 @@
 	height: 40px;
 }
 
+@media (max-width: 768px) {
+	.tech-icon {
+		width: 40%;
+		padding: 10px;
+	}
+}
+
 
 /* body */
 
